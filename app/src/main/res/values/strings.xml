@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DrinksApp</string>
+    <string name="btnExit">Exit</string>
+    <string name="btnBack">Back</string>
+    <string name="btnSave">Save</string>
+    <string name="txtHeaderIngredients">Ingredients</string>
+    <string name="txtHeaderInstructions">Instructions</string>
+    <string name="txtHeaderUserRating">User Rating</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#ff4e50"
+                android:endColor="#f9d423"
+                android:type="linear" />
+        </shape>
+    </item>
+</selector>
+<!--Copied from https://learntodroid.com/how-to-add-a-gradient-background-to-an-android-app/ -->

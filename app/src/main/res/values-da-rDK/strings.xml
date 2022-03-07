@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnExit">Afslut</string>
+    <string name="btnBack">Tilbage</string>
+    <string name="btnSave">Gem</string>
+    <string name="txtHeaderIngredients">Ingredienser</string>
+    <string name="txtHeaderInstructions">Instruktioner</string>
+    <string name="txtHeaderUserRating">Brugerbedømmelse</string>
+</resources>
